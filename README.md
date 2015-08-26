@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-data_science_toolbox_assignments
+data_science_ppt
